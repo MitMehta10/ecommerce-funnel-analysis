@@ -1,0 +1,7 @@
+source,sessions,orders,revenue,aov,revenue_per_session,pct_of_revenue,pct_of_sessions
+email,7739,695,54684.0,78.68,7.066,28.2,12.9
+direct,5965,390,32124.0,82.37,5.385,16.6,9.9
+paid_search,13094,525,41578.0,79.2,3.175,21.5,21.8
+organic_search,17958,615,47314.0,76.93,2.635,24.4,29.9
+referral,3045,74,5966.0,80.62,1.959,3.1,5.1
+social,12199,159,12090.0,76.04,0.991,6.2,20.3

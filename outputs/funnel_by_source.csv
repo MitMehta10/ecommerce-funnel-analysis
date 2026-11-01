@@ -1,0 +1,7 @@
+segment,sessions,viewed,carted,checked_out,purchased,view_to_cart_pct,cart_to_checkout_pct,checkout_to_purchase_pct,session_conversion_pct
+email,7739,7134,1607,1054,695,22.53,65.59,65.94,8.98
+direct,5965,5368,939,605,390,17.49,64.43,64.46,6.54
+paid_search,13094,11550,1669,973,525,14.45,58.3,53.96,4.01
+organic_search,17958,15248,1818,1062,615,11.92,58.42,57.91,3.42
+referral,3045,2516,234,130,74,9.3,55.56,56.92,2.43
+social,12199,8519,623,317,159,7.31,50.88,50.16,1.3
